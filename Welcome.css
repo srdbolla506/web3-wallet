@@ -1,0 +1,26 @@
+h2 {
+    color: white;
+}
+
+.para {
+    color: gray;
+    font-size: 15px;
+}
+
+.highlightButton {
+    color: black;
+    background-color: white;
+    font-size: 15px;
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.body {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    text-align: center;
+    background-color: black;
+}
